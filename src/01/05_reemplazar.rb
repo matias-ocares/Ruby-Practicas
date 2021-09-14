@@ -1,4 +1,4 @@
-# Descomentá el siguiente código y corré los tests sólo para este archivo con:
+# UN COMENTARIO Descomentá el siguiente código y corré los tests sólo para este archivo con:
 #   $ rake test TEST=tests/01/05_reemplazar_test.rb
 
 # Luego, mientras vas implementando la función, seguí corriendo los tests hasta
